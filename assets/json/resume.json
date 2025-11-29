@@ -137,18 +137,7 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Mathematics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Mean field games",
-        "Scientific machine learning",
-        "Uncertainty quantification",
-        "Numerical analysis"
-      ]
-    }
-  ],
+  "interests": [],
   "references": [],
   "projects": []
 }
