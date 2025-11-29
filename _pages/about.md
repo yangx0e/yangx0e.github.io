@@ -1,34 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: California Institute of Technology
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p>Steele House, Pasadena,</p>
+    <p>California, USA</p>
+    <p>yxjmath at caltech dot edu</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Postdoctoral Scholar Research Associate in Computing and Mathematical Sciences at California Institute of Technology sponsored by Professors [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm) and [Andrew M. Stuart](http://stuart.caltech.edu/). I previously held a postdoctoral position at Tsinghua University and Beijing Institute of Mathematical Sciences and Applications hosted by Professors [Shiu-Yuen Cheng](https://ymsc.tsinghua.edu.cn/info/1031/2292.htm) and [Lingyun Qiu](https://ymsc.tsinghua.edu.cn/info/1033/2378.htm). I earned Ph.D. and master degrees in applied mathematics at King Abdullah University of Science and Technology under the supervision of Professor [Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research centers on developing computational methods in numerical simulations, inverse problems, and data-driven scientific law discovery. I specialize in leveraging Gaussian Processes (GPs) to create probabilistic approaches for solving Partial Differential Equations (PDEs) and uncovering hidden patterns in data. My work extends to operator learning and the application of GPs in solving inverse problems. Additionally, I am focused on developing optimization techniques and numerical algorithms to solve mean field games and explore their broader applications.
