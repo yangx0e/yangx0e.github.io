@@ -7,15 +7,13 @@ nav: true
 nav_order: 4
 ---
 
-## Teaching
-
-### As instructor
+## As instructor
 
 - **ACM 270 – Partial Differential Equations and Computational Mean Field Games**  
   *California Institute of Technology*  
   Mar. 2024 – Jun. 2024  
 
-### As teaching assistant
+## As teaching assistant
 
 - **Functional Analysis**  
   *King Abdullah University of Science and Technology (KAUST)*  
