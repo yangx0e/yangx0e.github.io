@@ -108,23 +108,7 @@
   "awards": [],
   "certificates": [],
   "publications": [],
-  "skills": [
-    {
-      "name": "Applied Mathematics",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Mean field games",
-        "Nonlinear PDEs",
-        "Gaussian processes",
-        "Kernel methods",
-        "Operator learning",
-        "Inverse problems",
-        "Numerical analysis",
-        "Optimization"
-      ]
-    }
-  ],
+  "skills": [],
   "languages": [
     {
       "language": "Chinese",
