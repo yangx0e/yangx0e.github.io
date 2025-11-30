@@ -18,6 +18,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a Postdoctoral Scholar Research Associate in Computing and Mathematical Sciences at California Institute of Technology sponsored by Professors [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm) and [Andrew M. Stuart](http://stuart.caltech.edu/). I previously held a postdoctoral position at Tsinghua University and Beijing Institute of Mathematical Sciences and Applications hosted by Professors [Shiu-Yuen Cheng](https://ymsc.tsinghua.edu.cn/info/1031/2292.htm) and [Lingyun Qiu](https://ymsc.tsinghua.edu.cn/info/1033/2378.htm). I earned Ph.D. and master degrees in applied mathematics at King Abdullah University of Science and Technology under the supervision of Professor [Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes). 
+I am currently a Postdoctoral Scholar Research Associate in Computing and Mathematical Sciences at the California Institute of Technology, sponsored by Professors [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm) and [Andrew M. Stuart](http://stuart.caltech.edu/).
 
-My research centers on developing computational methods in numerical simulations, inverse problems, and data-driven scientific law discovery. I specialize in leveraging Gaussian Processes (GPs) to create probabilistic approaches for solving Partial Differential Equations (PDEs) and uncovering hidden patterns in data. My work extends to operator learning and the application of GPs in solving inverse problems. Additionally, I am focused on developing optimization techniques and numerical algorithms to solve mean field games and explore their broader applications.
+Before joining Caltech, I was a Postdoctoral Researcher at the Yau Mathematical Sciences Center, Tsinghua University, and at the Beijing Institute of Mathematical Sciences and Applications, hosted by Professors [Shiu-Yuen Cheng](https://en.wikipedia.org/wiki/Shiu-Yuen_Cheng) and [Lingyun Qiu](https://ymsc.tsinghua.edu.cn/en/info/1032/3189.htm).  
+
+I obtained my Ph.D. and M.Sc. in applied mathematics from King Abdullah University of Science and Technology (KAUST) under the supervision of Professor [Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes).
+
+---
+
+## Research overview
+
+My research spans scientific computing and machine learning, with a broad interest in numerical methods for partial differential equations (PDEs), mean field games, inverse problems, operator learning, and data-driven scientific discovery. For more details, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=clCXNU0AAAAJ&view_op=list_works&sortby=pubdate).
+
+
