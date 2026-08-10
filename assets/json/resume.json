@@ -1,39 +1,52 @@
 {
   "basics": {
-    "name": "Xianjin Yang",
-    "label": "Postdoctoral Scholar in Applied Mathematics",
-    "image": "",
-    "email": "yxjmath@caltech.edu",
-    "phone": "",
-    "url": "https://yangx0e.github.io",
-    "summary": "Postdoctoral scholar working on mean field games, nonlinear PDEs, numerical analysis, optimization, operator learning, inverse problems, Gaussian processes and kernel methods.",
-    "location": {
-      "address": "1200 E California Blvd",
-      "postalCode": "CA 91125",
-      "city": "Pasadena",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "Xianjin Yang",
-        "url": ""
-      },
-      {
-        "network": "GitHub",
-        "username": "yangx0e",
-        "url": "https://github.com/yangx0e"
-      }
-    ]
+  "name": "Xianjin Yang",
+  "label": "Assistant Professor in Applied Mathematics",
+  "image": "",
+  "email": "yangxianjin@cuhk.edu.cn",
+  "phone": "",
+  "url": "https://yangx0e.github.io",
+  "summary": "Assistant Professor working on scientific computing, numerical analysis, inverse problems, and machine learning for differential equations.",
+  "location": {
+    "address": "2001 Longxiang Boulevard, Longgang District",
+    "postalCode": "518172",
+    "city": "Shenzhen",
+    "countryCode": "CN",
+    "region": "Guangdong"
   },
+  "profiles": [
+    {
+      "network": "Google Scholar",
+      "username": "Xianjin Yang",
+      "url": ""
+    },
+    {
+      "network": "GitHub",
+      "username": "yangx0e",
+      "url": "https://github.com/yangx0e"
+    }
+  ]
+},
   "work": [
+    {
+  "name": "The Chinese University of Hong Kong, Shenzhen",
+  "position": "Assistant Professor",
+  "location": "Shenzhen, China",
+  "url": "https://sse.cuhk.edu.cn/",
+  "startDate": "2026-08",
+  "summary": "Assistant Professor in the School of Science and Engineering.",
+  "highlights": [
+    "Research on scientific computing, numerical analysis, inverse problems, and machine learning for differential equations.",
+    "Applications to nonlinear PDEs, mean field games, operator learning, and data-driven scientific discovery."
+  ]
+},
     {
       "name": "California Institute of Technology",
       "position": "Postdoctoral Scholar Research Associate",
       "location": "California, US",
       "url": "https://www.cms.caltech.edu/",
-      "startDate": "2022-09-01",
+      "startDate": "2022-09",
+      "endDate": "2026-03", 
       "summary": "Postdoctoral scholar in Computing and Mathematical Sciences, sponsored by Houman Owhadi and Andrew M. Stuart.",
       "highlights": [
         "Research on Gaussian process methods for solving nonlinear PDEs and inverse problems.",
@@ -45,8 +58,8 @@
       "position": "Postdoctoral Researcher",
       "location": "Beijing, China",
       "url": "https://ymsc.tsinghua.edu.cn/",
-      "startDate": "2020-09-01",
-      "endDate": "2022-07-01",
+      "startDate": "2020-09",
+      "endDate": "2022-07",
       "summary": "Postdoctoral researcher at Yau Mathematical Sciences Center, Tsinghua University and Beijing Institute of Mathematical Sciences and Applications.",
       "highlights": [
         "Hosted by Shiu-Yuen Cheng and Lingyun Qiu.",
@@ -62,8 +75,8 @@
       "url": "https://www.kaust.edu.sa/",
       "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "2016-07-01",
-      "endDate": "2020-12-01",
+      "startDate": "2016-07",
+      "endDate": "2020-12",
       "score": "",
       "courses": [
         "Mean field games",
@@ -77,8 +90,8 @@
       "url": "https://www.kaust.edu.sa/",
       "area": "Applied Mathematics",
       "studyType": "Master",
-      "startDate": "2014-09-01",
-      "endDate": "2016-06-30",
+      "startDate": "2014-09",
+      "endDate": "2016-06",
       "score": "",
       "courses": []
     },
@@ -88,8 +101,8 @@
       "url": "https://www.zju.edu.cn/",
       "area": "Computer Graphics / Applied Mathematics",
       "studyType": "Master",
-      "startDate": "2011-09-01",
-      "endDate": "2014-06-30",
+      "startDate": "2011-09",
+      "endDate": "2014-06",
       "score": "",
       "courses": []
     },
@@ -99,8 +112,8 @@
       "url": "https://www.cqu.edu.cn/",
       "area": "Mathematics",
       "studyType": "Bachelor",
-      "startDate": "2007-09-01",
-      "endDate": "2011-07-01",
+      "startDate": "2007-09",
+      "endDate": "2011-07",
       "score": "",
       "courses": []
     }
