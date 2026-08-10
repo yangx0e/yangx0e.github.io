@@ -18,11 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral scholar research associate in Computing and Mathematical Sciences at the California Institute of Technology, sponsored by Professors [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm) and [Andrew M. Stuart](http://stuart.caltech.edu/).
+I am currently an Assistant Professor in the School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen). My research focuses on scientific computing, numerical analysis, inverse problems, and machine learning for differential equations.
 
-Before joining Caltech, I was a postdoctoral researcher at the Yau Mathematical Sciences Center, Tsinghua University, and at the Beijing Institute of Mathematical Sciences and Applications, hosted by Professors [Shiu-Yuen Cheng](https://en.wikipedia.org/wiki/Shiu-Yuen_Cheng) and [Lingyun Qiu](https://ymsc.tsinghua.edu.cn/en/info/1032/3189.htm).  
+Before joining CUHK-Shenzhen, I was a postdoctoral scholar research associate in Computing and Mathematical Sciences at the California Institute of Technology, working with Professors [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm) and [Andrew M. Stuart](http://stuart.caltech.edu/).
 
-I obtained my Ph.D. and M.Sc. in applied mathematics from King Abdullah University of Science and Technology (KAUST) under the supervision of Professor [Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes).
+Prior to Caltech, I was a postdoctoral researcher at the Yau Mathematical Sciences Center, Tsinghua University, and the Beijing Institute of Mathematical Sciences and Applications, hosted by Professors [Shiu-Yuen Cheng](https://en.wikipedia.org/wiki/Shiu-Yuen_Cheng) and [Lingyun Qiu](https://ymsc.tsinghua.edu.cn/en/info/1032/3189.htm).
+
+I received my Ph.D. and M.Sc. in Applied Mathematics from King Abdullah University of Science and Technology (KAUST) under the supervision of Professor [Diogo Gomes](https://www.kaust.edu.sa/en/study/faculty/diogo-gomes).
+
 
 ---
 
