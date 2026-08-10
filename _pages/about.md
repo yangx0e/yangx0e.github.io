@@ -2,16 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: California Institute of Technology
+subtitle: The Chinese University of Hong Kong, Shenzhen
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Steele House, Pasadena,</p>
-    <p>California, USA</p>
-    <p>yxjmath at caltech dot edu</p>
+    <p>Longgang, Shenzhen, China, 518172</p>
+    <p>yangxianjin at cuhk dot edu dot cn</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
